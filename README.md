@@ -1,6 +1,8 @@
 # NLP Processing
 Create Cleaner, Tokenizer and Vectorizer From Scratch for Learning Purpose
 
+![](https://i.imgur.com/J5zDGMD.png)
+***
 ```python
 dataset = [
     {'text': "the game began development in 2010 ..."},
