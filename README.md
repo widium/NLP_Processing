@@ -3,10 +3,10 @@ Create Cleaner, Tokenizer and Vectorizer From Scratch for Learning Purpose
 
 ![](https://i.imgur.com/J5zDGMD.png)
 ***
-- ## [Cleaner](#cleaner)
-- ## [Tokenizer](#tokenizer)
-- ## [Vectorizer](#vectorizer)
-- ## [Dataset](#languagemodelingdataset) 
+- ## [Cleaner](/cleaner.py)
+- ## [Tokenizer](/tokenizer.py)
+- ## [Vectorizer](/vectorizer.py)
+- ## [Dataset](/language_dataset.py) 
 ***
 ```python
 dataset = [
